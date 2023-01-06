@@ -120,3 +120,7 @@
 2023-01-06 11:50:11,390 :: INFO :: recording wav file 4 of WAVCOUNT
 2023-01-06 11:50:11,391 :: INFO :: recording 20230106_115011390977
 2023-01-06 11:51:11,763 :: INFO :: updating GitHub
+2023-01-06 11:51:17,645 :: INFO :: {'time': '2023-01-06 11:51:17.642058', 'volts': 5.084, 'amps': 0.741, 'temp': 48.312}
+2023-01-06 11:51:17,647 :: INFO :: recording wav file 5 of WAVCOUNT
+2023-01-06 11:51:17,648 :: INFO :: recording 20230106_115117648166
+2023-01-06 11:52:18,128 :: INFO :: updating GitHub
